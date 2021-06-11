@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrefixCalc", "PrefixCalc\PrefixCalc.csproj", "{5C3AA134-58A0-44C7-B2B1-8A24410A888C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPNcalc", "NPNcalc\NPNcalc.csproj", "{52E61015-68CD-41A2-8361-FE0576D9B109}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C3AA134-58A0-44C7-B2B1-8A24410A888C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3AA134-58A0-44C7-B2B1-8A24410A888C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C3AA134-58A0-44C7-B2B1-8A24410A888C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C3AA134-58A0-44C7-B2B1-8A24410A888C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52E61015-68CD-41A2-8361-FE0576D9B109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E61015-68CD-41A2-8361-FE0576D9B109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E61015-68CD-41A2-8361-FE0576D9B109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E61015-68CD-41A2-8361-FE0576D9B109}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF91FE73-FA64-4D44-BD20-07F591A40B78}
+	EndGlobalSection
+EndGlobal
