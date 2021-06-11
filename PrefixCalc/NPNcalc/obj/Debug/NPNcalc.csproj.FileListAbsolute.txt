@@ -1,0 +1,5 @@
+C:\Users\Alice\Downloads\PrefixCalc\NPNcalc\bin\Debug\NPNcalc.dll
+C:\Users\Alice\Downloads\PrefixCalc\NPNcalc\bin\Debug\NPNcalc.pdb
+C:\Users\Alice\Downloads\PrefixCalc\NPNcalc\obj\Debug\NPNcalc.csproj.CoreCompileInputs.cache
+C:\Users\Alice\Downloads\PrefixCalc\NPNcalc\obj\Debug\NPNcalc.dll
+C:\Users\Alice\Downloads\PrefixCalc\NPNcalc\obj\Debug\NPNcalc.pdb
